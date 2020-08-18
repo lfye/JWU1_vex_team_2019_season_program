@@ -10,7 +10,7 @@ The API for this program can be found [here](https://docs.google.com/document/d/
   * Jossean Rivera (Mentor)
   * Kimchay Sreng
 
-## More information about the team and robot can be found via the following links:
+## More information about the team and robot can be found here:
 * https://www.facebook.com/JWUVexRobotics/
 * https://www.jwu.edu/news/2019/04/competition-ready-five-questions-with-manuel-rosado-and-edgar-falc%C3%B3n.html
 
