@@ -1,6 +1,6 @@
 # JWU1's Code for *VEX Turning Point* Competition
 ---
-This is the program written and used for JWU1's (Johnson and Wales University) 24 inch robot during the 2018-19 VEX U season. \
+This is the program written and used for JWU1's (Johnson and Wales University) 24 inch robot during the 2018-19 VEX U season. 
 The JWU1 team placed 30th in the world at the *2019 VEX Robotics World Championship* in the University Division. \
 This program was written written in the VEXcode Pro V5 coding environment using C++.
 
